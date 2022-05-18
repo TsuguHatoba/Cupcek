@@ -14,7 +14,7 @@ Pre-requisites
 * Familiar with activities and fragments
 * How to use styles and themes in the UI
 * Basic understanding of Jetpack architecture components including ViewModel and LiveData
-* Data binding and binding expressions
+* Data binding and binding expressions 
 * Kotlin syntax basics
 
 
